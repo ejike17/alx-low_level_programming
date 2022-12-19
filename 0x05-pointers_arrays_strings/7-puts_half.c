@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* puts_half - check the code.
-* str: an input string.
+* @puts_half: check the code.
+* @str: an input string.
 * Return: nothing.
 */
 
