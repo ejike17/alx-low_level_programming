@@ -3,7 +3,7 @@
 /**
 * _strcpy - check the code.
 * @dest: a pointer to destination of string.
-* c: a pointer to source string to copy from
+* @src: a pointer to source string to copy from
 * Return: the pointer to desth
 */
 
